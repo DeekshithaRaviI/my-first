@@ -1,7 +1,7 @@
 Static Web App with AWS CloudFront and Custom Domain
 
 Description
-This project demonstrates how to deploy a static web application using AWS S3 and CloudFront. The static content (HTML, CSS, JavaScript) is hosted on an S3 bucket, and AWS CloudFront is used for content delivery. Additionally, a custom domain (`www.deekshitha.live`) is configured to point to the CloudFront distribution using Route 53.
+This project demonstrates how to deploy a static web application using AWS S3 and CloudFront. The static content (HTML, CSS, JavaScript) is hosted on an S3 bucket, and AWS CloudFront is used for content delivery. Additionally, a custom domain is configured to point to the CloudFront distribution using Route 53.
 
 ## Table of Contents
 1. [Installation](#installation)
